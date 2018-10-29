@@ -1,2 +1,2 @@
-{ "username":"RSS IFTTT", "content":" posted **{{EntryTitle}}**
+{ "username":"https://www.crunchyroll.com/newsrss?lang=ptBR", "content":" posted **{{EntryTitle}}**
  {{EntryPublished}}: {{EntryUrl}} " }
